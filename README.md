@@ -162,3 +162,5 @@ class ApiController extends AbstractController
 ```
 
 🎉 Félicitations ! Vous venez de créer et tester votre première API !
+
+## ➡️ Dans le prochain chapitre : [Authentification JWT](./jwt.md)
