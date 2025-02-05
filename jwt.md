@@ -154,7 +154,7 @@ class RegistrationController extends AbstractController
 1. **Ouvrir Postman** et créer une requête `POST` vers :
 
     ```bash
-    http://127.0.0.1:8000/api/login_check
+    http://127.0.0.1:8000/api/register
     ```
 
 2. **Dans l’onglet Body**, choisir "raw" et "JSON" puis entrer :
@@ -162,6 +162,7 @@ class RegistrationController extends AbstractController
     ```json
     {
         "email": "admin@example.com",
+        "username": "adminadmin
         "password": "password"
     }
     ```
