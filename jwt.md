@@ -92,7 +92,7 @@ Symfony ne gère pas nativement JWT, nous allons donc installer le **LexikJWTAut
                 jwt: ~
     ```
 
-6. Configurer le routing dans `config/packages/security.yaml` en ajoutant :
+6. Configurer le routing dans `config/routes.yaml` en ajoutant :
 
     ```yaml
     # config/routes.yaml
