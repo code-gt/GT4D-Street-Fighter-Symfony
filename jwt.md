@@ -162,7 +162,7 @@ class RegistrationController extends AbstractController
     ```json
     {
         "email": "admin@example.com",
-        "username": "adminadmin
+        "username": "adminadmin",
         "password": "password"
     }
     ```
