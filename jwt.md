@@ -247,3 +247,5 @@ Maintenant que vous avez installé **JWT** et testé un endpoint sécurisé, il 
 * ✔ Vous devez **protéger les routes** pour que seuls les utilisateurs connectés puissent interagir avec l’API.
 * ✔ Un utilisateur ne doit **modifier ou supprimer que ses propres personnages**.
 * ✔ Chaque route doit **renvoyer une réponse JSON claire** en cas de succès ou d’erreur.
+
+## ➡️ Dans le prochain chapitre : [Intégration NextJS](./nextjs.md)
